@@ -29,11 +29,11 @@ h1 {
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
-  transform: translateX(200%);
-  -webkit-transform: translateX(200%);
-  -moz-transform: translateX(200%);
-  -ms-transform: translateX(200%);
-  -o-transform: translateX(200%);
+  transform: translateX(300%);
+  -webkit-transform: translateX(300%);
+  -moz-transform: translateX(300%);
+  -ms-transform: translateX(300%);
+  -o-transform: translateX(300%);
   transition: transform 1s ease;
   -webkit-transition: transform 1s ease;
   -moz-transition: transform 1s ease;
@@ -41,11 +41,11 @@ h1 {
   -o-transition: transform 1s ease;
 }
 .box:nth-child(even) {
-  transform: translateX(-200%);
-  -webkit-transform: translateX(-200%);
-  -moz-transform: translateX(-200%);
-  -ms-transform: translateX(-200%);
-  -o-transform: translateX(-200%);
+  transform: translateX(-300%);
+  -webkit-transform: translateX(-300%);
+  -moz-transform: translateX(-300%);
+  -ms-transform: translateX(-300%);
+  -o-transform: translateX(-300%);
 }
 
 .box.show {
